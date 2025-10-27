@@ -1,0 +1,5 @@
+export const USUARIOS_INICIALES = [
+  { id: 1, nombre: "Iker", apellido: "Arana", usuario: "iarana", contrasena: "1234Abcd" },
+  { id: 2, nombre: "Ander", apellido: "Goikoetxea", usuario: "agoikoetxea", contrasena: "5678Efgh" },
+  { id: 3, nombre: "Jokin", apellido: "Olano", usuario: "jolano", contrasena: "9012Ijkl" }
+];
