@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
           mensaje.style.borderRadius = "2rem";
         }
         setTimeout(() => {
-          window.location.href = "/views/bienvenida.html";
+          window.location.href = "./views/bienvenida.html";
         }, 1000);
       } else {
         if (mensaje) {
